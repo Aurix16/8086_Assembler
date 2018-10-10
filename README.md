@@ -1,6 +1,6 @@
 This basically returns the binary values and hex codes for a number of 8086 mnemonics.
 
-It was an undergraguate project that we collated as one file, so a big thanks to everyone in our year that contributed to this repo: github.com/Ruyione/EIE411-8086-Assembler
+It was an undergraduate project that we collated as one file, so a big thanks to everyone in our year that contributed to this repo: github.com/Ruyione/EIE411-8086-Assembler
 
 Note:
 The CMP command handles all possibiities for CMP(compare) except register/memory and register.
